@@ -6,3 +6,5 @@ Created on Mon Jun 09 20:25:23 2014
 """
 
 print "Hello World"
+
+print "Getting smarter"
